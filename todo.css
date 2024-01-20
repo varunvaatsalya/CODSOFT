@@ -7,7 +7,7 @@ body {
     /* max-width: 65%; */
     background-repeat: no-repeat;
     height: 100vh;
-    background-image: linear-gradient(135deg, #7367F0 10%, #CE9FFC 100%);
+    background-image: linear-gradient(135deg, #3e369a 10%, #795f94 100%);
     display: flex;
     
     font-family: 'Merriweather Sans', sans-serif;
